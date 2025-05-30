@@ -1,8 +1,5 @@
 # 📈 EquityMetrics: Investment Analysis for Equity Portfolio
 
-![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
-![Last Commit](https://img.shields.io/github/last-commit/sneakytyper/EquityMetrics)
-
 A Python-powered toolkit for fetching equity data, calculating risk/return metrics, and visualizing portfolio performance. Designed for quants, analysts, and investors.
 
 ---
